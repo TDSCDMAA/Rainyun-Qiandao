@@ -1,8 +1,5 @@
 name: Rainyun 自动签到
 
-env:
-  TZ: Asia/Shanghai
-
 on:
   schedule:
     - cron: '0 16 * * *'  # # 北京时间每天 00:00 触发（对应 UTC 时间 16:00）
