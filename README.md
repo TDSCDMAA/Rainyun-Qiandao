@@ -144,3 +144,4 @@ python rainyun.py
 - [ddddocr](https://github.com/sml2h3/ddddocr) - 开源的验证码识别库
 - [Selenium](https://www.selenium.dev/) - 自动化测试工具
 - [webdriver-manager](https://github.com/SergeyPirogov/webdriver_manager) - ChromeDriver 自动管理工具
+
